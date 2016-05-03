@@ -1,5 +1,5 @@
 # HPC-Project
-This repisotry is different code for solving fluid flow in a 2D channel using Lattice Boltzmann Method (LBM)
+This repository is different code for solving fluid flow in a 2D channel using Lattice Boltzmann Method (LBM)
 
 LBM.f90 is Serial version
 
